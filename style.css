@@ -1,5 +1,21 @@
-body {
+body{
   width: 100%;
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+  }
+  img{
+    display: block;
+    padding: auto;
+    margin: 0 auto;
+  }
+  figcaption{
+    text-align: center;
+    font-size: small;
+  }
+  p{
+    width: 800px;
+    text-align: center;
+  }
